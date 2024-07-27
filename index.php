@@ -1,5 +1,5 @@
 <?php
 
-print "1st"
+print "1st and 2nd"
 
 ?>
